@@ -1,8 +1,8 @@
 # Wenqian Yin
-This is Wenqian Yin's personal [homepage](https://zejiang-unsw.github.io/).
+This is Wenqian Yin's personal [homepage](https://wenqianyin.github.io/webpage/).
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
+I am a PostDoc Research Fellow with The University of Hong Kong.
 
 PROFILE:
 * Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatology processes. 
