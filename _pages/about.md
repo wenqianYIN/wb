@@ -13,12 +13,10 @@ This is Wenqian Yin's personal homepage.
 ## A short introduction
 I am a Postdoctoral Research Fellow in the Department of Electrical and Electronic Engineering, The University of Hong Kong. I received my B. Eng., M. Eng. and Ph.D. degree all in Electrical Engineering from Jiangsu University, Hohai University, and The University of Hong Kong, China in 2015, 2018 and 2022, respectively.
 
-<b>Research Highlights:</b>
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
-* An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* [Postprocessing techniques](https://doi.org/10.1029/2021GL092953) for correcting climate model simulations in the [time-frequency domain](https://doi.org/10.1029/2022GL100550)
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+<b>Research Interests:</b>
+* Renewable energy planning
+* Resilient planning and operation of power systems
+* Application of optimization methods
 
 ## Selected Journal Publications
 Jiang, Z., & Johnson, F. (2022). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *submitted to Monthly Weather Review, under review*. 
@@ -36,6 +34,3 @@ Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Represe
 Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. [link](https://doi.org/10.1016/j.advwatres.2019.103430)
 
 Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
-
-## Research Interests
-Renewable energy planning, resilient planning and operation of power systems, application of optimization methods
