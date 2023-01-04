@@ -16,5 +16,5 @@ I am a Postdoctoral Research Fellow in the Department of Electrical and Electron
 <b>Research Interests:</b>
 * Renewable energy planning
 * Resilient planning and operation of power systems
-* Application of optimization methods
 * Integration of energy storage in smart grids
+* Application of optimization methods
