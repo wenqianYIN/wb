@@ -11,7 +11,7 @@ redirect_from:
 This is Wenqian Yin's personal homepage. 
 
 ## A short introduction
-I am a Postdoctoral Research Fellow in the Department of Electrical and Electronic Engineering, The University of Hong Kong. I received my B. Eng., M. Eng. and Ph.D. degree all in Electrical Engineering from Jiangsu University, Hohai University, and The University of Hong Kong, China in 2015, 2018 and 2022, respectively.
+I am currently a Postdoctoral Research Fellow in the Department of Electrical and Electronic Engineering, The University of Hong Kong. I received my B. Eng., M. Eng. and Ph.D. degree in Electrical Engineering from Jiangsu University, Hohai University, and The University of Hong Kong, China in 2015, 2018 and 2022, respectively.
 
 <b>Research Interests:</b>
 * Renewable energy planning
