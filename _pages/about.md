@@ -17,20 +17,4 @@ I am a Postdoctoral Research Fellow in the Department of Electrical and Electron
 * Renewable energy planning
 * Resilient planning and operation of power systems
 * Application of optimization methods
-
-## Selected Journal Publications
-Jiang, Z., & Johnson, F. (2022). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *submitted to Monthly Weather Review, under review*. 
-
-Kusumastuti, C., Jiang, Z., Mehrotra R., & Sharma, A. (2022). Correcting systematic bias in climate model simulations in the time-frequency domain. *Geophysical Research Letters*, 49(19), e2022GL100550. [link](https://doi.org/10.1029/2022GL100550)
-
-Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
-
-Kusumastuti, C., Jiang, Z., Mehrotra R., & Sharma, A. (2021). A signal processing approach to correct systematic bias in trend and variability in climate model simulations. *Geophysical Research Letters*, 48(13), e2021GL092953. [link](https://doi.org/10.1029/2021GL092953)
-
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
-
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. [link](https://doi.org/10.1029/2019WR026962)
-
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. [link](https://doi.org/10.1016/j.advwatres.2019.103430)
-
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
+* Integration of energy storage in smart grids
