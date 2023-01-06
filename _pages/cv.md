@@ -16,9 +16,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Electrical Engineering, Jiangsu University, Zhenjiang, China, 2015
-* M.Eng. in Electrical Engineering, Hohai University, Nanjing, China, 2018
-* Ph.D. in Electrical Engineering, The University of Hong Kong, Hong Kong SAR, China, 2022
+
 
 Research Interests
 ======
