@@ -20,6 +20,10 @@ I am currently a Postdoctoral Research Fellow in the Department of Electrical an
 * Ph.D. in Electrical Engineering, The University of Hong Kong, Hong Kong SAR, China, 2022
   Supervisor: Dr. Yunhe Hou
 
+<b>Experience:</b>
+* Visiting scholar, Department of Electrical and Computer Engineering, University of Central Florida, Dec 2021- May 2022
+  Supervisor: Prof. Wei Sun
+  
 <b>Research Interests:</b>
 * Renewable energy planning
 * Resilient planning and operation of power systems
