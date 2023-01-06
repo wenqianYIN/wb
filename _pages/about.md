@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is Wenqian Yin's personal homepage. 
+Hi, this is Wenqian Yin's personal homepage. 
 
 ## A short introduction
-I am currently a Postdoctoral Research Fellow in the Department of Electrical and Electronic Engineering, The University of Hong Kong. My supervisor is [Dr. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/). I received my B. Eng., M. Eng. and Ph.D. degree in Electrical Engineering from Jiangsu University, Hohai University, and The University of Hong Kong, China, in 2015, 2018 and 2022, respectively.
+I am currently a Postdoctoral Research Fellow in the Department of Electrical and Electronic Engineering, The University of Hong Kong. My supervisor is [Dr. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/). 
+
+<b>Education:</b>
+* B.Eng. in Electrical Engineering, Jiangsu University, Zhenjiang, China, 2015
+* M.Eng. in Electrical Engineering, Hohai University, Nanjing, China, 2018
+* Ph.D. in Electrical Engineering, The University of Hong Kong, Hong Kong SAR, China, 2022
 
 <b>Research Interests:</b>
 * Renewable energy planning
