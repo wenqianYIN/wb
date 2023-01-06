@@ -15,13 +15,13 @@ I am currently a Postdoctoral Research Fellow in the Department of Electrical an
 
 <b>Education:</b>
 * B.Eng. in Electrical Engineering, Jiangsu University, Zhenjiang, China, 2015
-* M.Eng. in Electrical Engineering, Hohai University, Nanjing, China, 2018
+* M.Eng. in Electrical Engineering, Hohai University, Nanjing, China, 2018, 
   Supervisor: Prof. Haoming Liu
-* Ph.D. in Electrical Engineering, The University of Hong Kong, Hong Kong SAR, China, 2022
+* Ph.D. in Electrical Engineering, The University of Hong Kong, Hong Kong SAR, China, 2022, 
   Supervisor: Dr. Yunhe Hou
 
 <b>Experience:</b>
-* Visiting scholar, Department of Electrical and Computer Engineering, University of Central Florida, Dec 2021- May 2022
+* Visiting scholar, Department of Electrical and Computer Engineering, University of Central Florida, Dec 2021- May 2022, 
   Supervisor: Prof. Wei Sun
   
 <b>Research Interests:</b>
