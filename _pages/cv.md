@@ -23,7 +23,7 @@ _Selected publications_:
 2021
 ======
 * Y. L. Li, W. Sun, **W. Yin**, S. Lei and Y. Hou, "Restoration Strategy for Active Distribution Systems Considering Endogenous Uncertainty in Cold Load Pickup," in IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 2690-2702, July 2022, doi: 10.1109/TSG.2021.3120555.
-* Liu, R.P., Sun, W., **Yin, W.**, Zhou, D. and Hou, Y., 2021. Extended convex hull-based distributed optimal energy flow of integrated electricity-gas systems. Applied Energy, 287, p.116551.
+* Liu, R.P., Sun, W., **Yin, W.**, Zhou, D. and Hou, Y., 2021. [Extended convex hull-based distributed optimal energy flow of integrated electricity-gas systems](https://www.sciencedirect.com/science/article/abs/pii/S0306261921000994). Applied Energy, 287, p.116551.
 
 2018
 ======
