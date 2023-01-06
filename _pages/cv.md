@@ -27,4 +27,4 @@ _Selected journal publications_:
 
 2018
 ======
-* Liu, Haoming, **Wenqian Yin**, Xiaoling Yuan, and Man Niu. "[Reserving charging decision-making model and route plan for electric vehicles considering information of traffic and charging station]((https://www.mdpi.com/2071-1050/10/5/1324))." Sustainability 10, no. 5 (2018): 1324.
+* Liu, Haoming, **Wenqian Yin**, Xiaoling Yuan, and Man Niu. "[Reserving charging decision-making model and route plan for electric vehicles considering information of traffic and charging station](https://www.mdpi.com/2071-1050/10/5/1324)." Sustainability 10, no. 5 (2018): 1324.
