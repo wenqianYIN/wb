@@ -15,8 +15,8 @@ main:
  # - title: "teaching"
  #   url: /teaching/   
     
-  - title: "Blog"
-    url: /year-archive/
+ # - title: "Blog"
+ #   url: /year-archive/
     
   - title: "publication"
     url: /cv/
