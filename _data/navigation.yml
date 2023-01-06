@@ -12,8 +12,8 @@ main:
  # - title: "Software"
  #   url: /software/
     
-  - title: "Publication"
-    url: /Publication/   
+  - title: "teaching"
+    url: /teaching/   
     
   - title: "Blog"
     url: /year-archive/
