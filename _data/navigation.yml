@@ -3,6 +3,9 @@ main:
 #  - title: "Publications"
 #    url: /publications/
 
+  - title: "Publications"
+    url: /cv/
+  
   - title: "Talks"
     url: /talks/     
     
@@ -18,8 +21,6 @@ main:
  # - title: "Blog"
  #   url: /year-archive/
     
-  - title: "Publications"
-    url: /cv/
-
+  
   # - title: "Group"
   #   url: /people/
