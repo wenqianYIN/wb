@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenqian Yin"
 title_separator          : "-"
 name                     : &name "Wenqian Yin"
-description              : &description "PostDoc Research Fellow @HKU, Hong Kong SAR, China"
+description              : &description "PostDoc Fellow @HKU, Hong Kong SAR, China"
 url                      : https://wenqianyin.github.io/webpage/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://wenqianyin.github.io/webpage/"
