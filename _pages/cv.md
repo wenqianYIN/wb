@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to visit my google site: [google_scholar_WenqianYin](https://scholar.google.com/citations?hl=en&user=w-p37TgAAAAJ&view_op=list_works&sortby=pubdate).
+Welcome to visit my google scholar: [google_scholar_WenqianYin](https://scholar.google.com/citations?hl=en&user=w-p37TgAAAAJ&view_op=list_works&sortby=pubdate).
 
 _Selected publications_:
 
