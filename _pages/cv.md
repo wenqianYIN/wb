@@ -18,11 +18,11 @@ _Selected publications_:
 * **W. Yin**, Y. Li, J. Hou, M. Miao and Y. Hou, "Coordinated Planning of Wind Power Generation and Energy Storage With Decision-Dependent Uncertainty Induced by Spatial Correlation," in IEEE Systems Journal, 2022, doi: 10.1109/JSYST.2022.3196706.
 * **W. Yin**, S. Feng, J. Hou, C. Qian and Y. Hou, "A Decision-Dependent Stochastic Approach for Joint Operation and Maintenance of Overhead Transmission Lines After Sandstorms," in IEEE Systems Journal, 2022, doi: 10.1109/JSYST.2022.3185072.
 * **W. Yin**, S. Feng and Y. Hou, "Stochastic Wind Farm Expansion Planning with Decision-Dependent Uncertainty Under Spatial Smoothing Effect," in IEEE Transactions on Power Systems, 2022, doi: 10.1109/TPWRS.2022.3184705.
-* J. Hou, S. Lei, **W. Yin**, W. Sun and Y. Hou, "Cybersecurity Enhancement for Multi-Infeed High-Voltage DC Systems," in IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 3227-3240, July 2022, doi: 10.1109/TSG.2022.3156796.
+* J. Hou, S. Lei, **W. Yin**, W. Sun and Y. Hou, "[Cybersecurity Enhancement for Multi-Infeed High-Voltage DC Systems](https://ieeexplore.ieee.org/abstract/document/9728736)," in IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 3227-3240, July 2022, doi: 10.1109/TSG.2022.3156796.
 
 2021
 ======
-* Y. L. Li, W. Sun, **W. Yin**, S. Lei and Y. Hou, "Restoration Strategy for Active Distribution Systems Considering Endogenous Uncertainty in Cold Load Pickup," in IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 2690-2702, July 2022, doi: 10.1109/TSG.2021.3120555.
+* Y. L. Li, W. Sun, **W. Yin**, S. Lei and Y. Hou, "[Restoration Strategy for Active Distribution Systems Considering Endogenous Uncertainty in Cold Load Pickup](https://ieeexplore.ieee.org/abstract/document/9576535)," in IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 2690-2702, July 2022, doi: 10.1109/TSG.2021.3120555.
 * Liu, R.P., Sun, W., **Yin, W.**, Zhou, D. and Hou, Y., 2021. [Extended convex hull-based distributed optimal energy flow of integrated electricity-gas systems](https://www.sciencedirect.com/science/article/abs/pii/S0306261921000994). Applied Energy, 287, p.116551.
 
 2018
